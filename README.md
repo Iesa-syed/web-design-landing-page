@@ -1,6 +1,6 @@
 # 🌐 Modern Landing Page
 
-A responsive landing page created using HTML5 and CSS3 featuring a modern navigation bar, hero section, search functionality, and login panel.
+A responsive landing page created using HTML and CSS featuring a modern navigation bar, hero section, search functionality, and login panel.
 
 
 
